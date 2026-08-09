@@ -3,7 +3,7 @@ package Day06;
 public class deletion {
 
 	public static void main(String[] args) {
-		int[] arr = {10, 20, 30, 40, 50};
+		int[] arr = {10, 60, 30, 40, 50};
 
         int size = 5;
         int pos = 2;
