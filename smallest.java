@@ -3,7 +3,7 @@ package Day06;
 public class smallest {
 
 	public static void main(String[] args) {
-		int[] arr = {12, 5, 8, 3, 9};
+		int[] arr = {1, 5, 8, 3, 9};
 
         int smallest = arr[0];
 
