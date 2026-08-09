@@ -3,7 +3,7 @@ package Day06;
 public class largest {
 
 	public static void main(String[] args) {
-		int[] arr = {4, 9, 2, 7, 1};
+		int[] arr = {4, 9, 2, 5, 1};
 
         int largest = arr[0];
 
